@@ -1,13 +1,10 @@
-# Weekly Class Cloud Engineer 2023
+# Automation With Bash
 
-Untuk mengikuti Weekly Class Cloud Engineer GDSC UG 2023 diharapkan mengikuti Prerequisite berikut
+Langkah Langkah untuk menjalankan program 
 
 1. [Instalasi WSL di Windows](#instalasi-wsl-di-windows)
 2. [Instalasi VSCode dengan Extension WSL](install-wsl-di-visual-studio-code)
 3. [Instalasi Docker di WSL](#instalasi-docker-di-wsl)
-
-Jangan pusing duluan ya gais ngeliat instruksi-instruksi nya, nanti akan kita pelajari semua di Weekly Class Cloud Engineer.
-Apabila ada pertanyaan bisa ditanyakan di server Discord GDSC UG
 
 # Instalasi WSL di Windows
 
@@ -149,7 +146,5 @@ Docker sudah sukses dijalankan tanpa sudo🥳
 Setelah semua instruksi diatas selesai, kalian bisa clone repository ini
 
 ```bash
-git clone https://github.com/gdscug/weekly-cloud-2023.git
+git clone https://github.com/Rqwannn/Automation_Bash_Linux.git
 ```
-
-See you on Weekly Class guyss!!!
