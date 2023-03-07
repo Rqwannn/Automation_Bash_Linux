@@ -18,8 +18,6 @@ Langkah Langkah untuk menjalankan program
 wsl --install --distribution Ubuntu-20.04
 ```
 
-<img src="https://user-images.githubusercontent.com/71868613/218260921-0b43b4d4-9444-415d-9a71-77cae493645b.png" width="500">
-
 - Tunggu WSL untuk diinstall dan voila WSL sudah berhasil diinstall🥳
 
 - Setelah instalasi selesai maka akan muncul terminal WSL baru.
@@ -27,7 +25,6 @@ wsl --install --distribution Ubuntu-20.04
 
 - Setelah muncul terminal WSL masukkan username dan password untuk WSL.
 
-![image](https://user-images.githubusercontent.com/71868613/218260966-ba93a507-5d33-4975-a1cc-b1e949f359cd.png)
 Note: Saat mengetik password memang akan blank, jadi jangan khawatir kalau tidak keluar karakter apa-apa di terminal.
 
 - Update repository apt di Ubuntu untuk mendapatkan metadata packages terbaru.
@@ -138,7 +135,6 @@ sudo usermod -aG docker $USER
 docker run hello-world
 ```
 
-![image](https://user-images.githubusercontent.com/71868613/218262987-ba744466-b96f-4e51-9b47-eb12568cc491.png)
 Docker sudah sukses dijalankan tanpa sudo🥳
 
 # Clone repository
